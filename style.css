@@ -1,0 +1,63 @@
+.content1 {
+    background-image: url(coding.jpg);
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    color: white;
+}
+
+.deskripsi {
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 500px;
+}
+
+.content1 .edu1 {
+    width: 516px;
+    height: 313px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    float: right;
+    margin-right: 50px;
+}
+
+.content1 .deskripsi p {
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
+
+.content1 .deskripsi h2 {
+    padding-top: 150px;
+    padding-left: 50px;
+    width: 500px;
+    height: 500px;
+}
+
+.deskripsi2 {
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 1041px;
+}
+
+.content1 .deskripsi2 h2 {
+    padding-top: 132px;
+    float: right;
+    width: 717px;
+    height: 200px;
+}
+
+.content1 .edu2 {
+    margin-top: 80px;
+    margin-left: 40px;
+    width: 554px;
+    height: 313px;
+    float: left;
+}
+
+.content1 .deskripsi2 p {
+    text-align: right;
+    margin-top: -16px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
